@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    int velPermitida = 80, velPassada, contador;
-
+    int velPermitida, velPassada, contador;
+    velPermitida = 80;
+    
     printf("Digite a velocidade passada: ");
     scanf("%d", &velPassada);
 
