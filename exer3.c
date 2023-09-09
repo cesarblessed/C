@@ -3,13 +3,13 @@
 void main() {
     int numero;
 
-    printf("Digite um n�mero: ");
+    printf("Digite um número: ");
     scanf("%d", &numero);
 
     if(numero % 2 == 0){
-        printf("par");
+        printf("%d é par", numero);
     }else{
-        printf("impar");
+        printf("%d é impar", numero);
     }
 }
 
