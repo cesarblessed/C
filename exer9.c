@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 
 void main(){
 
@@ -9,16 +10,20 @@ char tipoAno[20];
 
 
 
-    printf("Digite um mês: ");
+    printf("Digite um mÃªs: ");
     scanf("%d", &mes);
 
      printf("Digite tipo de ano: ");
     scanf("%s", tipoAno);
 
-    if(mes == "2" && tipoAno == "b"){
-        printf("Fevereiro - 29 dias");
+
+    if (mes == 2 && (strcmp(tipoAno, "b") == 0)) {
+        printf("Fevereiro - 29 dias\n");
     }
 
+    switch(mes){
+
+    }
 
 
 }
