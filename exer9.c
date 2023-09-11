@@ -42,6 +42,18 @@ char tipoAno[20];
         case 8:
             printf("Agosto - 31 dias");
             break;
-
+        case 9:
+            printf("Setembro - 30 dias");
+            break;
+        case 10:
+            printf("Outubro - 31 dias");
+            break;
+        case 11:
+            printf("Novembro - 30 dias");
+            break;
+        case 12:
+            printf("Dezembro - 31 dias");
+            break;
+        }
     }
 }
