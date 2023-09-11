@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h> //biblioteca para trabalhar com strings
 
+//Digite B para bissexto
+
 void main(){
 
     char tipoAno[20];
@@ -9,7 +11,7 @@ void main(){
     printf("Digite um mês: ");
     scanf("%d", &mes);
 
-    printf("Digite tipo de ano: ");
+    printf("Digite tipo de ano(digite b para bissexto: ");
     scanf("%s", tipoAno);
 
     if (mes == 2 && (strcmp(tipoAno, "b") == 0)) {
