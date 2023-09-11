@@ -33,7 +33,15 @@ char tipoAno[20];
         case 5:
             printf("Maio - 31 dias");
             break;
+        case 6:
+            printf("Junho - 30 dias");
+            break;
+        case 7:
+            printf("Julho - 31 dias");
+            break;
+        case 8:
+            printf("Agosto - 31 dias");
+            break;
 
     }
 }
-
