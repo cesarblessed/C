@@ -10,3 +10,4 @@ De acordo, que for resolvendo os exercícios colocarei aqui nesse repositório.
 4)Tipo triângulo: usuário digita os 3 lados de um triângulo e código retorna qual tipo dele
 5)Numero maior: usuário digite 3 números e código retorna qual número é maior
 6)Calculadora: usuário digita dois número e um operador e código mostra o resultado
+7)média com informação: usuário digita 2 notas de um aluno e código mostra se aluno foi aprovado ou não
