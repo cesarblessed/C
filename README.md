@@ -12,3 +12,4 @@ De acordo, que for resolvendo os exercícios colocarei aqui nesse repositório.
 6)Calculadora: usuário digita dois número e um operador e código mostra o resultado
 7)média com informação: usuário digita 2 notas de um aluno e código mostra se aluno foi aprovado ou não
 8)Radar de velocidade: usuário digita velocidade que motorista passou e calcula o valor da multa
+9)Dias dos meses: usuário digita o mês e se o ano é bissexto, e código retorna a quantidade de dias que o mês tem
