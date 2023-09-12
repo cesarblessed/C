@@ -11,3 +11,4 @@ De acordo, que for resolvendo os exercícios colocarei aqui nesse repositório.
 5)Numero maior: usuário digite 3 números e código retorna qual número é maior
 6)Calculadora: usuário digita dois número e um operador e código mostra o resultado
 7)média com informação: usuário digita 2 notas de um aluno e código mostra se aluno foi aprovado ou não
+8)Radar de velocidade: usuário digita velocidade que motorista passou e calcula o valor da multa
