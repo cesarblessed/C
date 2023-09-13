@@ -17,4 +17,6 @@ cesar
 cesar
 cesar augusto oliveira de paula
 cesar blessed
+cesar augusto 
+estudar gerência de projetos
 
