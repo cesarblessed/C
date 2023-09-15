@@ -21,4 +21,6 @@ cesar augusto
 estudar gerência de 
 estudos são bons
 estudar c é essencial
+java é uma otima linguagem de programação
+
 
