@@ -20,4 +20,5 @@ cesar blessed
 cesar augusto 
 estudar gerência de 
 estudos são bons
+estudar c é essencial
 
