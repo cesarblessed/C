@@ -24,5 +24,6 @@ estudar c é essencial
 java é uma otima linguagem de programação
 javascript nasceu em 1995
 sextou na caminhada viuuu
+quem caminha é ele viu
 
 
