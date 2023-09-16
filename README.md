@@ -28,6 +28,7 @@ quem caminha é ele viu
 
 estudar para as provas ajuda muito na hora de faze lá
 Deus é fiel, Deus abençoe minha vida
+Se o senhor não edificar a casa, em vão trabalha os que a edificam
 
 
 
