@@ -31,6 +31,7 @@ Deus é fiel, Deus abençoe minha vida
 Se o senhor não edificar a casa, em vão trabalha os que a edificam
 se o senhor não guardar a cidade em vão vigia a sentinela
 inutil será levantar de madrugada e comer pãos de dores
+os filhos são erança do senhor, o fruto do ventre do seu galardão
 
 
 
