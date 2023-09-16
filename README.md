@@ -27,6 +27,7 @@ sextou na caminhada viuuu
 quem caminha é ele viu
 
 estudar para as provas ajuda muito na hora de faze lá
+Deus é fiel, Deus abençoe minha vida
 
 
 
