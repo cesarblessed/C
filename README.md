@@ -13,26 +13,7 @@ De acordo, que for resolvendo os exercícios colocarei aqui nesse repositório.
 7)média com informação: usuário digita 2 notas de um aluno e código mostra se aluno foi aprovado ou não
 8)Radar de velocidade: usuário digita velocidade que motorista passou e calcula o valor da multa
 9)Dias dos meses: usuário digita o mês e se o ano é bissexto, e código retorna a quantidade de dias que o mês tem
-cesar
-cesar
-cesar augusto oliveira de paula
-cesar blessed
-cesar augusto 
-estudar gerência de 
-estudos são bons
-estudar c é essencial
-java é uma otima linguagem de programação
-javascript nasceu em 1995
-sextou na caminhada viuuu
-quem caminha é ele viu
 
-estudar para as provas ajuda muito na hora de faze lá
-Deus é fiel, Deus abençoe minha vida
-Se o senhor não edificar a casa, em vão trabalha os que a edificam
-se o senhor não guardar a cidade em vão vigia a sentinela
-inutil será levantar de madrugada e comer pãos de dores
-os filhos são erança do senhor, o fruto do ventre do seu galardão
-como flexa na mão de um homem valente, assim são os filhos de sua mocidade
 
 
 
