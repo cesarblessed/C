@@ -14,6 +14,4 @@ De acordo, que for resolvendo os exercícios colocarei aqui nesse repositório.
 8)Radar de velocidade: usuário digita velocidade que motorista passou e calcula o valor da multa
 9)Dias dos meses: usuário digita o mês e se o ano é bissexto, e código retorna a quantidade de dias que o mês tem
 
-
-
-
+Métodos em c
