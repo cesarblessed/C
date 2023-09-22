@@ -16,3 +16,4 @@ De acordo, que for resolvendo os exercícios colocarei aqui nesse repositório.
 
 Métodos em c
 Funções em c
+Atributos em c
