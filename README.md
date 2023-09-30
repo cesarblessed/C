@@ -32,3 +32,5 @@ c é uma ótima linguagem de programação
 
 Métodos em c
 Funções em c
+Atributos em c
+Deus é fiel
