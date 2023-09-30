@@ -29,3 +29,6 @@ Deus é fiel
 Aprender c em 2023
 A linguagem c é muito importante
 c é uma ótima linguagem de programação
+
+Métodos em c
+Funções em c
